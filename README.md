@@ -1,2 +1,1 @@
-# selector-specificity
-A calculator for CSS selector's specificity.
+# CSS selector's specificity calculator
