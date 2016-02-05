@@ -17,6 +17,8 @@ export default class App extends React.Component {
   constructor(props) {
     super(props);
 
+    this.handleChange = this.handleChange.bind(this);
+
     this.state = {
       data: [],
     };
@@ -41,7 +43,7 @@ export default class App extends React.Component {
         <Col span="10" offset="7">
           <h1><strong>CSS</strong> selector's specificity</h1>
           <Input id="selector" type="text" size="large"
-            onChange={this.handleChange.bind(this)}
+            onChange={this.handleChange}
           />
 
           { results }
