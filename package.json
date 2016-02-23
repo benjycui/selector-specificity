@@ -6,10 +6,10 @@
     "index": "./src/entry/index.jsx"
   },
   "dependencies": {
-    "antd": "0.12.3",
-    "atool-build": "0.5.0",
-    "babel-plugin-antd": "^0.2.0",
-    "es3ify-loader": "^0.1.0",
+    "antd": "~0.12.3",
+    "atool-build": "~0.5.0",
+    "babel-plugin-antd": "~0.2.0",
+    "es3ify-loader": "~0.1.0",
     "react": "~0.14.3",
     "react-dom": "~0.14.3",
     "specificity": "~0.1.5"
