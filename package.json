@@ -21,7 +21,7 @@
     "dora-plugin-proxy": "0.6.0",
     "eslint": "~2.2.0",
     "eslint-config-airbnb": "~6.0.1",
-    "eslint-plugin-react": "~4.1.0",
+    "eslint-plugin-react": "~4.2.0",
     "pre-commit": "1.x"
   },
   "pre-commit": [
