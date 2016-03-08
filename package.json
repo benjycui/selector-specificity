@@ -15,7 +15,7 @@
     "specificity": "~0.1.5"
   },
   "devDependencies": {
-    "dora": "0.3.0",
+    "dora": "0.3.1",
     "dora-plugin-atool-build": "0.4.x",
     "dora-plugin-hmr": "0.4.1",
     "dora-plugin-proxy": "0.6.0",
