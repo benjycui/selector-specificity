@@ -17,7 +17,7 @@
   "devDependencies": {
     "dora": "0.3.1",
     "dora-plugin-atool-build": "0.4.x",
-    "dora-plugin-hmr": "0.4.1",
+    "dora-plugin-hmr": "0.5.0",
     "dora-plugin-proxy": "0.6.0",
     "eslint": "~2.4.0",
     "eslint-config-airbnb": "~6.0.1",
